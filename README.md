@@ -45,9 +45,6 @@ grievance-tracker/
 ├── grievances.json # JSON database for storing grievances
 ├── uploads/ # Uploaded documents (optional)
 
-yaml
-Copy
-Edit
 
 ---
 
