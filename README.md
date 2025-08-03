@@ -36,15 +36,6 @@ An intelligent grievance management system built using **Streamlit** and **Pytho
 - Pandas
 - JSON (for local grievance storage)
 
----
-
-## Project Structure
-
-grievance-tracker/
-├── app.py # Main application logic
-├── grievances.json # JSON database for storing grievances
-├── uploads/ # Uploaded documents (optional)
-
 
 ---
 
